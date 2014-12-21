@@ -1,0 +1,10 @@
+.DS_Store
+build/
+# https://github.com/substack/browserify-handbook#node_modules 
+node_modules/*
+tests/test-bundle.js
+bundle.js
+.sass-cache/
+.idea/
+todo.md
+npm-debug.log
